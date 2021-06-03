@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Die Sabbathi, 16 Novemb. 1644 an ordinance of the Lords and Commons assembled in Parliament for the freeing and discharging of all rents and revenues (belonging to the hospitalls of Saint Bartholomew, Bridewell, Saint Thomas, and Bethlem) from any assessments, taxes and charges whatsoever.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22143</idno><idno type="EEBO-CITATION">10268642</idno>
+  <idno type="VID">204631</idno>
+  <idno type="EEBO-PROQUEST">2240942362</idno>
+  
+            <idno type="STC">Wing E1980</idno>
+            <idno type="OCLC">10268642</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22143)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204631)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1382:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Die Sabbathi, 16 Novemb. 1644 an ordinance of the Lords and Commons assembled in Parliament for the freeing and discharging of all rents and revenues (belonging to the hospitalls of Saint Bartholomew, Bridewell, Saint Thomas, and Bethlem) from any assessments, taxes and charges whatsoever.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1644?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Hospitals --  England.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:204631:1"/>
+            <head>
+               <hi>Die Sabbathi,</hi> 16 <hi>Novemb.</hi> 1644. <hi>An Ordinance of the Lords and Commons assembled in Parliament, for the freeing and dis<g ref="char:EOLhyphen"/>charging of all Rents and Revenues (belonging to the Hospitalls of Saint <hi>Bartholomew, Bridewell,</hi> Saint <hi>Thomas,</hi> and <hi>Bethlem)</hi> from any Assessments, Taxes and charges whatsoever.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Lords and Commons assembled in Parliament, have been given to un<g ref="char:EOLhyphen"/>derstand, from the Major, and Comminalty, and Citizens of <hi>London,</hi> Governour of the Possessions, Revenues and Goods of the Hospitalls of Saint <hi>Bartholomew, Bridewell,</hi> Saint <hi>Thomas,</hi> and <hi>Bethlem;</hi> That the Rents and Revenues belonging to the said Hospitalls respectively, are not sufficient to keep and maintain the poor Peo<g ref="char:EOLhyphen"/>ple, properly appointed to be kept in the said Hospitalls, in ordinary times, without the help and supply of Legacies and Gifts of Charitable persons, which since these present Trou<g ref="char:EOLhyphen"/>bles are much decreased, and very small; And that the Rents of divers of the said Lands in remote countries where the Armies are, or have been, are lost, and divers Tenants of other of the said Lands, in and neer <hi>London,</hi> alledge that they are so far impoverished, that they are not able to pay their Rents in these dead and troublesome Times, neither do pay any Rent at all to the said Hospitalls; And that the Rents of divers Houses belonging to the said Hospi<g ref="char:EOLhyphen"/>talls being out of Lease, and standing empty, are wholly lost; And that many Tenants of the Lands belonging to the said Hospitalls, withhold and deduct severall sums of Money out of their Rents, for severall Taxes and Rates upon divers Ordinances of Parliament; Whereby the said Hospitalls are become much indebted, and want Moneys to buy necessary provision for the Poor therein: And that neverthelesse, great numbers of sick, wounded, and other Souldiers have for the time of above Twenty moneths past, been constantly kept in the said Hospitalls, at very great and extraordinary Charges, especially for their Cure and Dyet:</p>
+            <p>The said Lords and Commons taking the Premisses into their consideration, think fit, and Ordain, and be it Ordained, That all the Rents and Revenues belonging to the said Hospi<g ref="char:EOLhyphen"/>talls respectively (being to be received and disbursed for the immediate use, and relief of the Poor in the same Hospitalls) shall be freed and discharged of and from all Assessments, Taxes and Charges whatsoever, aswell already made or charged, and not paid, as hereafter to be made or charged by vertue of any Ordinance of Parliament.</p>
+            <p>And it is hereby further Ordained, That it shall not be lawfull for any of the said Tenants to withhold and deduct out of their Rents any sum of Money, which is or shall be rated by vertue of any Ordinance of Parliament, upon his and their Houses and Lands, belonging to the said Hospitalls respectively, which in respect of the Rents of every such House and Lands, the Landlords ought to pay; And every such Tenant is hereby required to make payment of his full Rent, that is or shall hereafter be due unto the said severall Hospitalls, Any Ordinance to the contrary notwithstanding.</p>
+            <p>And all Assessors, Collectors, and others whom this may concern, are hereby required to take notice of this Ordinance; Provided that the Tenants who enjoy good and considerable Bargains in their Leases from the said Hospitalls respectively, do claim and enjoy no free<g ref="char:EOLhyphen"/>dom, exemption or advantage by this Ordinance.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Joh: Brown,</hi> Cleric. Parliamentorum.</item>
+                     <item>
+                        <hi>H: Elsynge,</hi> Cler. Parl. D. Com.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
